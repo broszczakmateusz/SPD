@@ -1,0 +1,11 @@
+data.10: 766
+data.11: 799
+data.12: 742
+data.13: 688
+data.14: 497
+data.15: 440
+data.16: 423
+data.17: 417
+data.18: 405
+data.19: 393
+data.20: 897
